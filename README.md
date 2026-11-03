@@ -108,6 +108,5 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 <p align="center">
-  <a href="https://sallibaba.carrd.co/">Website</a> ·
-  <a href="https://www.facebook.com/sallibabaapp">Facebook</a>
+  <a href="https://sallibaba.carrd.co/">Website</a>
 </p>
